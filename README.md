@@ -1,6 +1,7 @@
 
 <h1>Hi there👋</h1> 
 ## About Me
+
 I'm a passionate Java Backend Developer with experience in building scalable and robust web applications. I enjoy working with modern technologies and continuously improving my skills.
 
 - 👯 I’m looking to collaborate on [Project Type]
@@ -28,7 +29,4 @@ I'm a passionate Java Backend Developer with experience in building scalable and
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirojAbdumavlonov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirojAbdumavlonov&layout=compact&hide_border=true&theme=radical)
 
